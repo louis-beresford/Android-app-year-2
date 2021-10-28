@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sarah Ties</string>
+    <string name="Home">Home</string>
+    <string name="Products">Products (Scroll to view)</string>
+    <string name="Contact">Contact us</string>
+    <string name="Settings">Settings</string>
+    <string name="introText">Welcome to my tie app! My ties are made by combining elegance with a quirky twist. Each tie is individually embroidered with exquisite organza and velvet.</string>
+    <string name="settingsText">
+        Here you can change the app from normal mode to a darker, night mode.\n\n
+        When you click the switch the app will turn into night mode\n
+        (You can do the same to reverse it)\n\n
+        All other pages (activities) will restart so that they are now in dark mode
+    </string>
+    <string name="emailButton">Send</string>
+    <string name="contactText">Want to buy a product? Send us an email!\n Enter subject below</string>
+    <string name="emailContent">Enter Content of email down below</string>
+    <string name="firstTimeButton">Click to enter app for the first time</string>
+    <string name="firstTimeText">Welcome, please enter your name below</string>
+    <string name="mainButton">Click to see a random product idea \n (Available on my Facebook)</string>
+</resources>
